@@ -1,1 +1,2 @@
-# whitebox
+# WhiteBox
+IT Solutions Ltd.
